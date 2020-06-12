@@ -13,7 +13,7 @@ Virtual Internship KPMG (Task 2)
 
 -  [Erroneous Raw Data](Raw.xlsx)
 -  [My Jupyter Notebook](KPMG_Module_2.ipynb)
--  [PPT to Client in MS Powerpoint](Module_2_PPT)
+-  [PPT to Client in PDF](Module_2_PPT.pdf)
 -  [PPT to Client in MS Powerpoint](Module_2_PPT.pptx)
 
 ---
